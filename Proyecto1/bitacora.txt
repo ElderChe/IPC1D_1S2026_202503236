@@ -1,0 +1,5 @@
+Se prestó el libro: 003
+Se devolvió el préstamo: P1
+Se prestó el libro: 001
+Se prestó el libro: 002
+Se devolvió el préstamo: P2

@@ -1,0 +1,4 @@
+ADMIN;admin;admin;null
+ESTUDIANTE;202503236;elder;usuario
+OPERADOR;Operador2;operador2;ElderOp2
+OPERADOR;Operador3;operador3;ElderOp3
